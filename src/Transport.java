@@ -11,6 +11,7 @@ public class Transport {
     }
     public void displayCapacity() {
         System.out.println("capacity: " + capacity);
+
     }
 }
 
